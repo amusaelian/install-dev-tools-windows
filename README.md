@@ -46,20 +46,20 @@ The script installs the following packages via the Chocolatey package manager:
 1. Download the script or clone the repository::
 
     ```powershell
-    git clone https://github.com/amusaelian/your-repo.git
+    git clone https://github.com/amusaelian/install-dev-tools-windows.git
     ```
 2. Open PowerShell as an Administrator.
 
 3. Navigate to the repository directory:
 
     ```powershell
-    cd your-repo
+    cd install-dev-tools-windows
     ```
 
 4. Run the script:
 
     ```powershell
-    .\Setup-DevWorkstation.ps1
+    .\install-dev-tools-windows.ps1
     ```
 
 ## Contributing
